@@ -1,7 +1,7 @@
 let champData = {}
 
 function championData(){
-    fetch("http://ddragon.leagueoflegends.com/cdn/12.12.1/data/en_US/champion.json")
+    fetch("https://ddragon.leagueoflegends.com/cdn/12.12.1/data/en_US/champion.json")
     .then(response => response.json())
     .then(data => {
         for (const champName in data.data){
