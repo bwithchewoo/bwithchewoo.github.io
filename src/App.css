@@ -1,0 +1,75 @@
+.app-container {
+  height: 98.5vh;
+  display: flex;
+  overflow: hidden;
+}
+
+.content-container {
+  display: flex;
+}
+
+.vertical-box {
+  background-color: #ADD8E6;
+  width: 100%;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  font-family: monospace;
+  font-size: 45px;
+  font-weight: 950;
+  letter-spacing: .08em;
+  color: #404040;
+}
+
+.main-content {
+  display: flex;
+  overflow-x:auto;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+.icons-container {
+  display: flex;
+
+}
+
+.icon {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+/* .image {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.image::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+} */
+
+.image {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  -webkit-mask-image: linear-gradient(to left,
+      transparent,
+      black,
+      black,
+      transparent);
+  mask-image: linear-gradient(to left, transparent, black, black, transparent);
+}
