@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bwithchewoo.github.io/static/css/main.b63b01a6.css",
-    "main.js": "/bwithchewoo.github.io/static/js/main.6eb9c87c.js",
-    "static/media/League.png": "/bwithchewoo.github.io/static/media/League.edbc37df1b78599d5503.png",
-    "static/media/Match.png": "/bwithchewoo.github.io/static/media/Match.1a4bfeb0d099289407e1.png",
-    "static/media/Photo.jpg": "/bwithchewoo.github.io/static/media/Photo.5c552b7003601ff9b707.jpg",
-    "static/media/dreamer-image.png": "/bwithchewoo.github.io/static/media/dreamer-image.d8baef7788ecef495915.png",
-    "static/media/drink.png": "/bwithchewoo.github.io/static/media/drink.c6ba4db49754ff03c7cf.png",
-    "static/media/fullstack-image.png": "/bwithchewoo.github.io/static/media/fullstack-image.1b312cb050ffdfc798d5.png",
-    "static/media/Uno.png": "/bwithchewoo.github.io/static/media/Uno.490c24b6592a28fb52d1.png",
-    "static/media/Merge.png": "/bwithchewoo.github.io/static/media/Merge.09893fecdaa1e2d6fbda.png",
-    "index.html": "/bwithchewoo.github.io/index.html",
-    "main.b63b01a6.css.map": "/bwithchewoo.github.io/static/css/main.b63b01a6.css.map",
-    "main.6eb9c87c.js.map": "/bwithchewoo.github.io/static/js/main.6eb9c87c.js.map"
+    "main.css": "/static/css/main.b63b01a6.css",
+    "main.js": "/static/js/main.6f9838b3.js",
+    "static/media/League.png": "/static/media/League.edbc37df1b78599d5503.png",
+    "static/media/Match.png": "/static/media/Match.1a4bfeb0d099289407e1.png",
+    "static/media/Photo.jpg": "/static/media/Photo.5c552b7003601ff9b707.jpg",
+    "static/media/dreamer-image.png": "/static/media/dreamer-image.d8baef7788ecef495915.png",
+    "static/media/drink.png": "/static/media/drink.c6ba4db49754ff03c7cf.png",
+    "static/media/fullstack-image.png": "/static/media/fullstack-image.1b312cb050ffdfc798d5.png",
+    "static/media/Uno.png": "/static/media/Uno.490c24b6592a28fb52d1.png",
+    "static/media/Merge.png": "/static/media/Merge.09893fecdaa1e2d6fbda.png",
+    "index.html": "/index.html",
+    "main.b63b01a6.css.map": "/static/css/main.b63b01a6.css.map",
+    "main.6f9838b3.js.map": "/static/js/main.6f9838b3.js.map"
   },
   "entrypoints": [
     "static/css/main.b63b01a6.css",
-    "static/js/main.6eb9c87c.js"
+    "static/js/main.6f9838b3.js"
   ]
 }
