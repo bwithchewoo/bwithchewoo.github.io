@@ -26,7 +26,7 @@ function App() {
               <a href="https://github.com/bwithchewoo" target="_blank" rel="noopener noreferrer" style={{ color: "inherit" }}>
                 <GitHub className="icon" />
               </a>
-              <a href="https://medium.com/@loveablessing" target="_blank" rel="noopener noreferrer" >
+              <a href="https://medium.com/@bwithchewoo" target="_blank" rel="noopener noreferrer" >
                 <img src={medium} style={{ marginLeft: 5, width: 40, height: 40 }} />
               </a>
             </div>
