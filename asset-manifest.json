@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.b63b01a6.css",
-    "main.js": "/main/static/js/main.b70cd22c.js",
-    "static/media/League.png": "/main/static/media/League.edbc37df1b78599d5503.png",
-    "static/media/Match.png": "/main/static/media/Match.1a4bfeb0d099289407e1.png",
-    "static/media/Photo.jpg": "/main/static/media/Photo.5c552b7003601ff9b707.jpg",
-    "static/media/dreamer-image.png": "/main/static/media/dreamer-image.d8baef7788ecef495915.png",
-    "static/media/drink.png": "/main/static/media/drink.c6ba4db49754ff03c7cf.png",
-    "static/media/fullstack-image.png": "/main/static/media/fullstack-image.1b312cb050ffdfc798d5.png",
-    "static/media/Uno.png": "/main/static/media/Uno.490c24b6592a28fb52d1.png",
-    "static/media/Merge.png": "/main/static/media/Merge.09893fecdaa1e2d6fbda.png",
-    "index.html": "/main/index.html",
-    "main.b63b01a6.css.map": "/main/static/css/main.b63b01a6.css.map",
-    "main.b70cd22c.js.map": "/main/static/js/main.b70cd22c.js.map"
+    "main.css": "/bwithchewoo.github.io/static/css/main.b63b01a6.css",
+    "main.js": "/bwithchewoo.github.io/static/js/main.60badc17.js",
+    "static/media/League.png": "/bwithchewoo.github.io/static/media/League.edbc37df1b78599d5503.png",
+    "static/media/Match.png": "/bwithchewoo.github.io/static/media/Match.1a4bfeb0d099289407e1.png",
+    "static/media/Photo.jpg": "/bwithchewoo.github.io/static/media/Photo.5c552b7003601ff9b707.jpg",
+    "static/media/dreamer-image.png": "/bwithchewoo.github.io/static/media/dreamer-image.d8baef7788ecef495915.png",
+    "static/media/drink.png": "/bwithchewoo.github.io/static/media/drink.c6ba4db49754ff03c7cf.png",
+    "static/media/fullstack-image.png": "/bwithchewoo.github.io/static/media/fullstack-image.1b312cb050ffdfc798d5.png",
+    "static/media/Uno.png": "/bwithchewoo.github.io/static/media/Uno.490c24b6592a28fb52d1.png",
+    "static/media/Merge.png": "/bwithchewoo.github.io/static/media/Merge.09893fecdaa1e2d6fbda.png",
+    "index.html": "/bwithchewoo.github.io/index.html",
+    "main.b63b01a6.css.map": "/bwithchewoo.github.io/static/css/main.b63b01a6.css.map",
+    "main.60badc17.js.map": "/bwithchewoo.github.io/static/js/main.60badc17.js.map"
   },
   "entrypoints": [
     "static/css/main.b63b01a6.css",
-    "static/js/main.b70cd22c.js"
+    "static/js/main.60badc17.js"
   ]
 }
