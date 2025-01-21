@@ -16,6 +16,7 @@ const Card = ({ title, content, company, dates, additionalContent }) => {
   return (
     <div className={`card ${flipped ? 'flipped' : ''}`} onClick={handleClick}>
       <div className="front">
+      <span class="flip-message">Click to Flip</span>
         <h1>{title}</h1>
         <p>{company}</p>
         <p>{dates}</p>
@@ -23,6 +24,7 @@ const Card = ({ title, content, company, dates, additionalContent }) => {
 
       </div>
       <div className="back">
+      <span class="flip-message">Click to Flip</span>
         <p>{additionalContent}</p>
       </div>
     </div>
@@ -67,6 +69,30 @@ const Carousel = ({ children }) => {
 
 const Work = () => {
   const cards = [
+    {
+      title: "Software Developer",
+      company: "Ecotrust", 
+      dates: "November 2023 to December 2024",
+      content: "Portland, OR",
+      additionalContent: (
+        <div>
+          <p>Designed and overhauled a new database system using Postgres for the Mid Atlantic Ocean Portal, enhancing
+          the flexibility and scalability by supporting arbitrary multi-level nesting of map layers.</p>
+          <p>Created intuitive UI elements using React to support and make better use of the new database & backend, such
+          as supporting drilling down into multiple nested layers when selecting layers, as well as admin UIs for managing
+          internal layers. </p>
+          <p>Implemented new APIs and Views using Django to interface with the new schema as well as enhancing data
+          accessibility and performance. This also includes a set of backwards compatible serializers to ensure smooth
+          migration and minimizing disruptions.</p>
+          <p>Led the process of transitioning to the new system for the mobile portal team by implementing backwards
+          compatibility measures, as well as a smooth and well tested migration pipeline using Python to convert existing
+          data into the new database while minimizing disruptions and maintaining productivity.</p>
+          <p>Developed a bulk media import feature for an Indigenous Traditional Knowledge database, enabling seamless
+          upload and storage of various media types, enhancing data accessibility and reducing manual entry time.</p>
+        </div>
+      )
+
+    },
     {
       title: 'Bookkeeper',
       company: 'Altman, Greenfield & Selvaggi',

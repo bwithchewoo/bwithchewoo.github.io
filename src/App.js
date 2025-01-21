@@ -8,7 +8,7 @@ import Projects from './Projects';
 import Contact from './Contact';
 import { Linkedin } from 'react-feather'
 import { GitHub } from 'react-feather'
-import photo from './Photo.jpg'
+import photo from './Photo2.jpg'
 import medium from './medium.png'
 function App() {
   return (
