@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/main/static/css/main.adda265b.css",
+    "main.js": "/main/static/js/main.51ab0495.js",
+    "static/media/Photo2.jpg": "/main/static/media/Photo2.69dad1fd16c2e95814ad.jpg",
+    "static/media/League.png": "/main/static/media/League.edbc37df1b78599d5503.png",
+    "static/media/Match.png": "/main/static/media/Match.1a4bfeb0d099289407e1.png",
+    "static/media/dreamer-image.png": "/main/static/media/dreamer-image.d8baef7788ecef495915.png",
+    "static/media/drink.png": "/main/static/media/drink.c6ba4db49754ff03c7cf.png",
+    "static/media/fullstack-image.png": "/main/static/media/fullstack-image.1b312cb050ffdfc798d5.png",
+    "static/media/beige-paper.png": "/main/static/media/beige-paper.ea4127ea011aae24782c.png",
+    "static/media/Uno.png": "/main/static/media/Uno.490c24b6592a28fb52d1.png",
+    "static/media/Merge.png": "/main/static/media/Merge.09893fecdaa1e2d6fbda.png",
+    "index.html": "/main/index.html",
+    "main.adda265b.css.map": "/main/static/css/main.adda265b.css.map",
+    "main.51ab0495.js.map": "/main/static/js/main.51ab0495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adda265b.css",
+    "static/js/main.51ab0495.js"
+  ]
+}
